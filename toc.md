@@ -6,7 +6,7 @@
 1. 準備
     1. [ソフトウェアの準備](Chapter1/Software.md)
     2. [ハードウェアの準備](Chapter1/Hardware.md)
-    3. [コーディング規則と例](Chapter1/CodingRule.md)
+    3. [まずは試してみましょう](Chapter1/LetsTryFirst.md)
 <!--
 2. Atmel Studio 7.0 の使い方
 3. 8bit-AVR アセンブリ言語
